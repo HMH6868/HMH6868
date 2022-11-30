@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Minh Hoàng</h1>
-- 🌱 I’m currently learning **C/C++ and FE**
+- 🌱 I’m currently learning C/C++ and FE
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
